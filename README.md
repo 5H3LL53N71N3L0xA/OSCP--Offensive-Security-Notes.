@@ -1,2 +1,10 @@
-# OSCP-Offensive_Security_Notes.
-Offensive Security notes
+---
+description: This is notes about Pentesting from the scratch
+---
+
+# Introduction.
+
+#### \*\*\*\*
+
+
+
