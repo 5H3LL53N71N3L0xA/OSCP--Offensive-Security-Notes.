@@ -1,2 +1,2 @@
-# OSCP--Offensive-Security-Notes.
+# OSCP-Offensive_Security_Notes.
 Offensive Security notes
