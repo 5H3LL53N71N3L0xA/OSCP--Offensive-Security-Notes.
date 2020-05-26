@@ -2,7 +2,7 @@
 
 1.1.1 Linux Basics Commands
 
-We can create a different types of files like .txt, .html, .xml etc..,  by using touch command. For e.g. I've created a text file using below mentioned command.
+We can create a different types of file like .txt, .html, .xml etc..,  by using touch command. For e.g. I've created a text file using below mentioned command.
 
 ```text
 #Creating Files. 
